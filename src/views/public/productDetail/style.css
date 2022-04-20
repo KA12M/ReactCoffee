@@ -1,0 +1,8 @@
+a {
+    cursor: pointer;
+    user-select: none;
+}
+
+.num{
+    user-select: none;
+}

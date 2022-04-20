@@ -1,0 +1,12 @@
+.paymentImg{
+    width: 50%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px rgb(90, 90, 90);
+    align-content: center;
+}
+
+.card-img{
+    object-fit: cover;
+    width: 100%;
+    height: 20;
+}
