@@ -1,6 +1,7 @@
-git clone <Link>
+git clone #link
  
   
-  cd <Project>
+  cd #link
   npm i
+  
   npm start
