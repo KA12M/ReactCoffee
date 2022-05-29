@@ -1,7 +1,8 @@
 git clone #link
  
   
-  cd #link
+  cd #Project
+  
   npm i
   
   npm start
